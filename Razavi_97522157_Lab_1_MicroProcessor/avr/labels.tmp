@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M32DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <HERE4><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>13</LINE></HERE4>
+  <HERE1><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>14</LINE></HERE1>
+  <DELAY><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>31</LINE></DELAY>
+  <HERE2><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>22</LINE></HERE2>
+  <HERE3><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>23</LINE></HERE3>
+  <L1><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>32</LINE></L1>
+  <L2><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>33</LINE></L2>
+  <L3><FILE>F:\terme 8\MC Lab\Homeworks\az1_mohammad_yarmoghadm_96462104\avr\AZ_1.asm</FILE><LINE>34</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
